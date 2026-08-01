@@ -1,6 +1,6 @@
 # fotmob
 
-[![license](https://img.shields.io/github/license/roimee6/fotmob.svg)](LICENSE) [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme) ![npm](https://img.shields.io/npm/v/@max-xoo/fotmob?color=green) [![npm download month](https://img.shields.io/npm/dm/@max-xoo/fotmob.svg)](https://www.npmjs.com/package/@max-xoo/fotmob)
+[![license](https://img.shields.io/github/license/maxencelobry/fotmob.svg)](LICENSE) [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme) ![npm](https://img.shields.io/npm/v/@max-xoo/fotmob?color=green) [![npm download month](https://img.shields.io/npm/dm/@max-xoo/fotmob.svg)](https://www.npmjs.com/package/@max-xoo/fotmob)
 
 A JavaScript wrapper around the unofficial [FotMob](https://www.fotmob.com/) API  
 Library based on an old library that is no longer operational and no longer maintained by [bgrnwd](https://github.com/bgrnwd)
@@ -41,4 +41,4 @@ let myCustomRequest = await fotmob.request("matches", { date: "20201020" })
 
 ## Contributing
 
-Feel free to [open an issue](https://github.com/roimee6/fotmob/issues/new) or submit a pull request.
+Feel free to [open an issue](https://github.com/maxencelobry/fotmob/issues/new) or submit a pull request.
