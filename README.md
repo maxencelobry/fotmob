@@ -5,7 +5,7 @@
 A JavaScript wrapper around the unofficial [FotMob](https://www.fotmob.com/) API  
 Library based on an old library that is no longer operational and no longer maintained by [bgrnwd](https://github.com/bgrnwd)
 
-> **This repository is now obsolete for several API paths.** For a more complete and actively developed implementation, please use the new repository: [iamglitch404/fotmob](https://github.com/iamglitch404/fotmob).
+> **This repository is now obsolete for several API paths.** For a more complete and actively developed alternative, please consider using [iamglitch404/fotmob](https://github.com/iamglitch404/fotmob).
 
 ## Table of Contents
 
